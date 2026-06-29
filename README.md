@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://github.com/user-attachments/assets/aa6d69ce-d567-4d0a-b0a2-62f7126fcd2f" />
-
+<img width="643" height="311" alt="MINIYOPC" src="https://github.com/user-attachments/assets/74b402ad-0439-4429-a495-a94cf8fe8ded" />
 <pre>
 ███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗ 
 ████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗
@@ -11,7 +9,6 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═════╝ 
 </pre>
 
-<h1>Miguel Carranza</h1>
 <p>Software Developer · Guatemala</p>
 
 <p>
@@ -71,21 +68,6 @@ Focused on web development, backend systems and mobile apps.
 
 ---
 
-<div align="center">
-
-## Skills
-
-<pre>
-Frontend   ████████████████░░░░  75%
-Backend    ██████████░░░░░░░░░░  50%
-</pre>
-
-<pre>
-Spanish    ████████████████████  100%
-English    ████████████████░░░░  80%
-</pre>
-
-</div>
 
 ---
 
@@ -149,39 +131,6 @@ IoT, Wi-Fi/Bluetooth, low-power systems.
 
 ---
 
-### GVU
-
-🔗 https://github.com/MADCO-py/GVU
-
-Aplicación web desarrollada en JavaScript enfocada en la construcción de interfaces dinámicas y manejo de lógica frontend. Forma parte de tus proyectos activos recientes, mostrando práctica constante en desarrollo web moderno. ([GitHub][1])
-
-**Tech:** JavaScript · HTML · CSS
-**Enfoque:** Frontend · Lógica de interacción · UI
-
----
-
-### CV - Miguel Carranza
-
-🔗 https://github.com/MADCO-py/CV-MIGUEL_CARRANZA
-
-Sitio web personal donde presentas tu información profesional y certificaciones. Desarrollado completamente desde cero, refleja tu capacidad para construir soluciones reales y desplegables. ([GitHub][2])
-
-**Tech:** HTML · CSS · JavaScript
-**Enfoque:** Web personal · Presentación profesional
-
----
-
-### Proyecto Plataformas Móviles
-
-🔗 https://github.com/YayaG2805/Proyectoplats
-
-Proyecto colaborativo enfocado en desarrollo de aplicaciones, demostrando trabajo en equipo y adaptación a entornos académicos/profesionales.
-
-**Tech:** (según repo)
-**Enfoque:** Desarrollo colaborativo · Aplicaciones
-
----
-
 <div align="center">
 
 ## How I Work
@@ -218,9 +167,6 @@ Proyecto colaborativo enfocado en desarrollo de aplicaciones, demostrando trabaj
 ## Contact
 
 <p>
-<a href="https://www.linkedin.com/in/miguel-angel-david-co-3585142a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://madco-py.github.io/CV-MIGUEL_CARRANZA/index.html">
 <img src="https://img.shields.io/badge/CV-000000?style=flat&logo=github&logoColor=white"/>
 </a>
