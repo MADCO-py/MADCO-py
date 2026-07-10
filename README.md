@@ -12,8 +12,6 @@
 <p>Software Developer · Guatemala</p>
 
 <p>
-<a href="https://madco-py.github.io/CV-MIGUEL_CARRANZA/index.html">
-<img src="https://img.shields.io/badge/Portfolio-CV-000000?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://madco-py.github.io/CV-MIGUEL_CARRANZA/index.html">
 <img src="https://img.shields.io/badge/Certified-INTECAP_Web_Dev-0057A8?style=flat-square" />
