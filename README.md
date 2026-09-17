@@ -2,11 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/20473c79-4471-4683-bc0f-cf8a029ebab3" width="100%" alt="Banner" />
 
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8b0000,100:000000&height=110&section=footer&animation=fadeIn" width="100%" alt="footer" />
-
-<br><br>
-
 <pre>
 ███╗░░░███╗  ░█████╗░  ██████╗░  ░█████╗░  ░█████╗░
 ████╗░████║  ██╔══██╗  ██╔══██╗  ██╔══██╗  ██╔══██╗
