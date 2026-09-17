@@ -1,22 +1,35 @@
 <div align="center">
 
-<!-- FOTO: cambia la URL por una foto o banner tuyo cuando la tengas. -->
-<img src="https://github.com/MADCO-py.png" width="148" height="148" alt="MADCO" />
-
-# 𝕸𝕬𝕯𝕮𝕺
-
-<pre>
-╔══════════════════════════════════════╗
-║  SOFTWARE · SYSTEMS · CRAFT          ║
-║  GUATEMALA                           ║
-╚══════════════════════════════════════╝
-</pre>
-
-<sub>Building things that remain useful.</sub>
+<img src="https://github.com/user-attachments/assets/20473c79-4471-4683-bc0f-cf8a029ebab3" width="100%" alt="Banner" />
 
 <br><br>
 
-[WORK](https://github.com/MADCO-py?tab=repositories)&nbsp;&nbsp;&nbsp;[CV](https://github.com/MADCO-py/CV-MIGUEL_CARRANZA)&nbsp;&nbsp;&nbsp;[MAIL](mailto:madcarranzaosorio@gmail.com)
+<pre>
+███╗░░░███╗  ░█████╗░  ██████╗░  ░█████╗░  ░█████╗░
+████╗░████║  ██╔══██╗  ██╔══██╗  ██╔══██╗  ██╔══██╗
+██╔████╔██║  ███████║  ██║░░██║  ██║░░╚═╝  ██║░░██║
+██║╚██╔╝██║  ██╔══██║  ██║░░██║  ██║░░██╗  ██║░░██║
+██║░╚═╝░██║  ██║░░██║  ██████╔╝  ╚█████╔╝  ╚█████╔╝
+╚═╝░░░░░╚═╝  ╚═╝░░╚═╝  ╚═════╝░  ░╚════╝░  ░╚════╝░
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143a52,100:00d9ff&height=110&section=header&text=SOFTWARE%20·%20SYSTEMS%20·%20SECURITY%20·%20CRAFT&fontSize=18&fontColor=e6f1ff&fontAlignY=62&animation=fadeIn" width="100%" alt="tagline" />
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-shipping_code-00d9ff?style=for-the-badge&labelColor=0d1117" alt="status" />
+<img src="https://img.shields.io/badge/FUEL-coffee_%26_curiosity-6f4e37?style=for-the-badge&labelColor=0d1117" alt="fuel" />
+<img src="https://img.shields.io/badge/DEBUG_METHOD-printf_undefeated-ff6b35?style=for-the-badge&labelColor=0d1117" alt="debug" />
+<img src="https://img.shields.io/badge/BRAIN_UPTIME-since_last_coffee-00ff9d?style=for-the-badge&labelColor=0d1117" alt="uptime" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1500&color=00D9FF&background=00000000&center=true&vCenter=true&width=560&lines=Building+things+that+remain+useful.;printf+is+still+undefeated.;NFC+%C2%B7+RFID+%C2%B7+Sub-GHz+%C2%B7+Zig+%C2%B7+Python" alt="typing" />
+
+<br><br>
+
+<p>
+<a href="https://github.com/MADCO-py/REPO_UNO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MADCO-py&repo=REPO_UNO&theme=dark_dimmed&hide_border=true" alt="repo 1" /></a>
+<a href="https://github.com/MADCO-py/REPO_DOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MADCO-py&repo=REPO_DOS&theme=dark_dimmed&hide_border=true" alt="repo 2" /></a>
+</p>
 
 <br><br>
 
@@ -31,41 +44,126 @@ Software that is functional at release and intelligible years later.<br>
 Web development, backend systems, mobile applications, and the lower layers beneath them.
 </p>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1800&color=8892B0&background=00000000&center=true&vCenter=true&width=500&size=16&lines=Backend+systems.;IoT+%26+automation.;NFC+%2F+RFID+integrations.;Wireless+security+research." alt="typing2" />
+
+<br>
+
+## Workshop / Flipper Zero
+
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
+<a href="https://docs.flipper.net/zero/development/hardware/tech-specs">
+  <img width="280" alt="Flipper Zero" src="https://github.com/user-attachments/assets/1782a5c2-4dcd-43ca-9bc4-1cfc217421df" />
+</a>
+</td>
+<td width="58%" valign="middle">
+
+**Flipper Zero** — a compact, open-source multi-tool for learning how everyday digital systems communicate.
+
+&nbsp;
+
+`NFC / RFID` &nbsp;13.56 MHz · 125 kHz LF
+`Sub-GHz` &nbsp;CC1101 · 315/433/868/915 MHz
+`Infrared` &nbsp;RX / TX
+`iButton` &nbsp;1-Wire
+`Bluetooth LE` &nbsp;5.4
+`USB-C` &nbsp;2.0 · BadUSB scripting
+`GPIO` &nbsp;13 pins
+`Storage` &nbsp;microSD up to 256 GB
+
+&nbsp;
+
+<sub>Used only with systems, devices, and signals you own or are authorized to test.</sub>
+
+</td>
+</tr>
+</table>
+
 <br>
 
 ## Selected studies
 
-<pre>
-WEB              HTML · CSS · JavaScript · TypeScript · React
-BACKEND          Java · Python · APIs · Architecture
-SYSTEMS          C · C++ · Low-level programming
-MOBILE           Kotlin · Android
-HARDWARE         Arduino · ESP32 · Sensors · Real-time control
-</pre>
+<p align="center">
+<code>WEB</code>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript" />
+<img src="https://img.shields.io/badge/React-00d9ff?style=flat-square&logo=react&logoColor=black" alt="react" />
+</p>
+
+<p align="center">
+<code>BACKEND</code>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/APIs%20%26%20Architecture-6f4e37?style=flat-square" alt="apis" />
+</p>
+
+<p align="center">
+<code>SYSTEMS</code>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="c" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="cpp" />
+<img src="https://img.shields.io/badge/Low--level%20programming-0d1117?style=flat-square" alt="lowlevel" />
+</p>
+
+<p align="center">
+<code>MOBILE</code>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="kotlin" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="android" />
+</p>
+
+<p align="center">
+<code>HARDWARE</code>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="arduino" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="esp32" />
+<img src="https://img.shields.io/badge/Sensors%20%26%20Real--time%20control-ff6b35?style=flat-square" alt="sensors" />
+</p>
 
 <br>
 
-## Principles
+## Off the clock
 
-<pre>
-I.    Start with the problem.
-II.   Make the useful version.
-III.  Refine without excess.
-IV.   Leave the code clearer than it was found.
-</pre>
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://widgets.1ceit.com/MADCO-py/spotify/top-artists?v=1" width="100%" alt="Spotify Top Artists"/></td>
+<td width="50%" align="center"><img src="https://widgets.1ceit.com/MADCO-py/spotify/top-tracks?v=1" width="100%" alt="Spotify Top Tracks"/></td>
+</tr>
+</table>
+
+<img src="https://widgets.1ceit.com/MADCO-py/steam/top-games?v=1" width="70%" alt="Steam Top Games"/>
 
 <br>
 
-<sub>CYBERSECURITY &nbsp;·&nbsp; ARTIFICIAL INTELLIGENCE &nbsp;·&nbsp; BACKEND ARCHITECTURE &nbsp;·&nbsp; SYSTEMS PROGRAMMING</sub>
+## Ubuntu / GNOME
+
+<pre>
+                            ....
+             .',:clooo:  .:looooo:.
+          .;looooooooc  .oooooooooo'
+       .;looooool:,''.  :ooooooooooc
+      ;looool;.         'oooooooooo,
+     ;clool'             .cooooooc.  ,,
+        ...                ......  .:oo,
+ .;clol:,.                        .loooo'
+:ooooooooo,                        'ooool
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.
+ ,loooooooc.                        .loooo.
+  .,;;;'.                          ;ooooc
+      ...                         ,ooool.
+   .cooooc.              ..',,'.  .cooo.
+     ;ooooo:.           ;oooooooc.  :l.
+      .coooooc,..      coooooooooo.
+        .:ooooooolc:. .ooooooooooo'
+          .':loooooo;  ,oooooooooc
+              ..';::c'  .;loooo:'
+</pre>
+
+<sub>Daily driver.</sub>
 
 <br><br>
 
----
-
-<br>
-
-<i>“Write code that works today and makes sense tomorrow.”</i>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:143a52,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
