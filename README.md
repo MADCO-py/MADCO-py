@@ -2,6 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/20473c79-4471-4683-bc0f-cf8a029ebab3" width="100%" alt="Banner" />
 
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:8b0000,100:000000&height=110&section=footer&animation=fadeIn" width="100%" alt="footer" />
+
 <br><br>
 
 <pre>
@@ -26,21 +29,6 @@
 
 <br><br>
 
-<br>
-
-<br><br>
-
----
-
-<br>
-
-## The work
-
-<p>
-Software that is functional at release and intelligible years later.<br>
-Web development, backend systems, mobile applications, and the lower layers beneath them.
-</p>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1800&color=8892B0&background=00000000&center=true&vCenter=true&width=500&size=16&lines=Backend+systems.;IoT+%26+automation.;NFC+%2F+RFID+integrations.;Wireless+security+research." alt="typing2" />
 
 <br>
@@ -61,15 +49,15 @@ Web development, backend systems, mobile applications, and the lower layers bene
 <pre align="left">
 MAD · FLIPPER                            SD Card/
 ──────────────────────────────────────────────────
-📁 badusb      BadUSB scripting · USB-C 2.0
-📁 subghz      CC1101 · 315/433/868/915 MHz
-📁 nfc         13.56 MHz
-📁 rfid        125 kHz LF
-📁 infrared    RX / TX
-📁 ibutton     1-Wire
-📁 gpio        13 pins
-📁 bluetooth   BLE 5.4
-📁 storage     microSD up to 256 GB
+📁 badusb      BadUSB             
+📁 subghz      315/433/868/915 MHz
+📁 nfc         13.56 MHz          
+📁 rfid        125 kHz LF         
+📁 infrared    RX / TX            
+📁 ibutton     1-Wire             
+📁 gpio        13 pins            
+📁 bluetooth   BLE 5.4            
+📁 storage     microSD up to 32 GB
 ──────────────────────────────────────────────────
 </pre>
 
@@ -174,6 +162,6 @@ MAD · FLIPPER                            SD Card/
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:143a52,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:143a52,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
