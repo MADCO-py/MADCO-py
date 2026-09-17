@@ -13,7 +13,7 @@
 ╚═╝░░░░░╚═╝  ╚═╝░░╚═╝  ╚═════╝░  ░╚════╝░  ░╚════╝░
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:143a52,100:00d9ff&height=110&section=header&text=SOFTWARE%20·%20SYSTEMS%20·%20SECURITY%20·%20CRAFT&fontSize=18&fontColor=e6f1ff&fontAlignY=62&animation=fadeIn" width="100%" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=2000&color=FF3B30&background=00000000&center=true&vCenter=true&width=650&size=26&repeat=false&lines=Todo+lo+que+imagines+puede+ser+programado" alt="tagline" />
 
 <p>
 <img src="https://img.shields.io/badge/STATUS-shipping_code-00d9ff?style=for-the-badge&labelColor=0d1117" alt="status" />
@@ -26,10 +26,7 @@
 
 <br><br>
 
-<p>
-<a href="https://github.com/MADCO-py/REPO_UNO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MADCO-py&repo=REPO_UNO&theme=dark_dimmed&hide_border=true" alt="repo 1" /></a>
-<a href="https://github.com/MADCO-py/REPO_DOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MADCO-py&repo=REPO_DOS&theme=dark_dimmed&hide_border=true" alt="repo 2" /></a>
-</p>
+<br>
 
 <br><br>
 
@@ -61,18 +58,20 @@ Web development, backend systems, mobile applications, and the lower layers bene
 
 **Flipper Zero** — a compact, open-source multi-tool for learning how everyday digital systems communicate.
 
-&nbsp;
-
-`NFC / RFID` &nbsp;13.56 MHz · 125 kHz LF
-`Sub-GHz` &nbsp;CC1101 · 315/433/868/915 MHz
-`Infrared` &nbsp;RX / TX
-`iButton` &nbsp;1-Wire
-`Bluetooth LE` &nbsp;5.4
-`USB-C` &nbsp;2.0 · BadUSB scripting
-`GPIO` &nbsp;13 pins
-`Storage` &nbsp;microSD up to 256 GB
-
-&nbsp;
+<pre align="left">
+MAD · FLIPPER                            SD Card/
+──────────────────────────────────────────────────
+📁 badusb      BadUSB scripting · USB-C 2.0
+📁 subghz      CC1101 · 315/433/868/915 MHz
+📁 nfc         13.56 MHz
+📁 rfid        125 kHz LF
+📁 infrared    RX / TX
+📁 ibutton     1-Wire
+📁 gpio        13 pins
+📁 bluetooth   BLE 5.4
+📁 storage     microSD up to 256 GB
+──────────────────────────────────────────────────
+</pre>
 
 <sub>Used only with systems, devices, and signals you own or are authorized to test.</sub>
 
@@ -131,11 +130,13 @@ Web development, backend systems, mobile applications, and the lower layers bene
 </tr>
 </table>
 
-<img src="https://widgets.1ceit.com/MADCO-py/steam/top-games?v=1" width="70%" alt="Steam Top Games"/>
-
 <br>
 
 ## Ubuntu / GNOME
+
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 <pre>
                             ....
@@ -161,6 +162,15 @@ Web development, backend systems, mobile applications, and the lower layers bene
 </pre>
 
 <sub>Daily driver.</sub>
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://widgets.1ceit.com/MADCO-py/steam/top-games?v=1" width="100%" alt="Steam Top Games"/>
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
